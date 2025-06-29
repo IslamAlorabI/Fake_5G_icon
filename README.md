@@ -4,7 +4,7 @@
 Change the LTE and 4G icons in the status bar to 5G.
 
 ### Precautions
-This module does not support in-depth custom ROMs that can be modified with themes (MIUI, Flyme, oneUI, EMU,I ColorO,S Funtouch,OS Nubi,aui RedMagicOS)
+This module does not support in-depth custom ROMs that can be modified with themes (MIUI, Flyme, oneUI, EMUI, ColorOS, FuntouchOS, NubiaUI, RedMagicOS)
 
 Because this module is modified by the systemui.apk of the system, it will conflict with the module that also modifies the systemui.apk
 
